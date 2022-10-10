@@ -1401,7 +1401,6 @@ public class SystemView extends javax.swing.JFrame {
     private javax.swing.JButton btn_register_employee6;
     private javax.swing.JButton btn_register_employee7;
     public javax.swing.JButton btn_register_product;
-    public javax.swing.JButton btn_register_suppliers;
     public javax.swing.JButton btn_remove_customer;
     private javax.swing.JButton btn_remove_purchase;
     public javax.swing.JButton btn_update_customer;
@@ -1411,7 +1410,6 @@ public class SystemView extends javax.swing.JFrame {
     public javax.swing.JComboBox<Object> cmb_product_category;
     private javax.swing.JComboBox<String> cmb_purchase_supplier;
     private javax.swing.JComboBox<String> cmb_rol;
-    public javax.swing.JComboBox<String> cmb_suppliers_city;
     public javax.swing.JTable customers_table;
     private javax.swing.JTable employees_table;
     private javax.swing.JLabel jLabel1;
